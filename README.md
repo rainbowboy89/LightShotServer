@@ -19,3 +19,5 @@ Tasks:
 - [ ] Add own Language support
 
 To install the Server downloade `installer.jar` then type: `java -jar installer.jar`
+
+The Server is not build yet.!!
